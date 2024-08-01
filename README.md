@@ -1,4 +1,4 @@
-Drive_link:-https://drive.google.com/drive/folders/12jKCyrCMhGHZbK0j7I4R3LmwOhSoovji?usp=sharing
+
 
 <h1>Travel & Hospitality</h1>
 <h2> Sky Analytics: Navigating the Complexities of Airline and Airport Operations.</h2>
